@@ -1,5 +1,5 @@
 # ct_intel_timeseries
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Martialsimen94/c1-bon/main?labpath=Introduction_to_Time_Series_student.ipynb)
 
 ### Prerequisites:
 - Python programing
